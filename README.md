@@ -1,7 +1,7 @@
 - 👋 Hi everyone, I’m Navid, I am 19 years old and I'm planning to study software engineering this year!
 - 👀 The one thing That I really enjoy about coding is fixing errors. It sometimes goes to a point that you are like this would never work, but after several days of researching
 and getting peoples help, there is always a way. The feeling you get when fixing an error is amazing haha.
-- 🌱 I’m currently learning python. I am still super new to this but i made game on mygame and also before that i made age which was ran on the terminal.
+- 🌱 I’m currently learning python. I am still super new to this but i made game using pygame and before that i made a game which was ran on the terminal.
 - 💞️ I’m looking to improve my coding skills everyday and at the same time help people as much as I can.
 
 <!---
